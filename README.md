@@ -43,6 +43,10 @@ https://recyclearns-zeta.vercel.app/
 ## Team Information for Recyclearns 
 
 Clementina Abakono : Product Manager 
+
 Adetoro Odun: Product Designer 
+
 Adewale Iyanuoluwa : Smart Contract Developer 
+
+
 Pheobeayo: Frontend Developer
