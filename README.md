@@ -26,14 +26,16 @@ RecycleToken  deployed to 0xcA7D2E45D893293B77C878B01890C61491884a90
 Recyclearns  deployed to 0xaaE627a823bA711cEBFB35D6A560C27C094e8642
 
 
-## Demo Video: 
-
+## Demo Video:
+https://youtu.be/gmC734Ju7cA 
 
 ## MVP: 
 https://recyclearns-zeta.vercel.app/
 
 
-## Pitch Slide: https://www.canva.com/design/DAGQXNFe94A/PIKmMVgIU1j5DlqFpFiAoA/view?utm_content=DAGQXNFe94A&utm_campaign=designshare&utm_medium=link&utm_source=editor
+## Pitch Slide: 
+https://www.canva.com/design/DAGQXNFe94A/PIKmMVgIU1j5DlqFpFiAoA/view?utm_content=DAGQXNFe94A&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 
 ## Discord username: 
  
